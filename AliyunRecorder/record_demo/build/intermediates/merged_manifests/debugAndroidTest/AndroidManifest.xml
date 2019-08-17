@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aliyun.demo.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.aliyun.demo.test"
+        android:targetPackage="com.aliyun.demo.test" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- 从SDCard读取数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" /> <!-- 电话状态权限 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" /> <!-- 蓝牙权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.aliyun.demo.recorder.activity.AlivcRecorderActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AlivcRecordUIStyle" >
+        </activity>
+        <activity
+            android:name="com.aliyun.demo.recorder.VideoPlayActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity
+            android:name="com.aliyun.demo.recorder.MusicActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.aliyun.demo.recorder.AliyunVideoRecorder"
+            android:screenOrientation="portrait"
+            android:theme="@style/AliyunVideoUIStytle" >
+        </activity>
+        <activity
+            android:name="com.aliyun.demo.recorder.activity.AlivcSvideoRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AlivcRecordUIStyle" >
+        </activity>
+        <activity android:name="com.aliyun.svideo.base.CopyrightWebActivity" />
+        <activity
+            android:name="com.aliyun.svideo.base.ui.SdkVersionActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
+        <service
+            android:name="com.liulishuo.filedownloader.services.FileDownloadService"
+            android:process=":filedownloader" />
+        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+        <service
+            android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService"
+            android:process=":filedownloader" />
+    </application>
+
+</manifest>

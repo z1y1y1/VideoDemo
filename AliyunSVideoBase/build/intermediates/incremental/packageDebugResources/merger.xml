@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res"/><source path="E:\alipay\VideoDemo\AliyunSVideoBase\build\generated\res\rs\debug"/><source path="E:\alipay\VideoDemo\AliyunSVideoBase\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res"><file name="alivc_beauty_level_text_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\color\alivc_beauty_level_text_selector.xml" qualifiers="" type="color"/><file name="aliyun_svideo_tab_text_color_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\color\aliyun_svideo_tab_text_color_selector.xml" qualifiers="" type="color"/><file name="alivc_beauty_default_bt_bg" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_beauty_default_bt_bg.xml" qualifiers="" type="drawable"/><file name="alivc_beauty_default_bt_selected_bg" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_beauty_default_bt_selected_bg.xml" qualifiers="" type="drawable"/><file name="alivc_beauty_default_bt_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_beauty_default_bt_selector.xml" qualifiers="" type="drawable"/><file name="alivc_beauty_seekbar_back_thumb_bg" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_beauty_seekbar_back_thumb_bg.xml" qualifiers="" type="drawable"/><file name="alivc_popup_arrow_up" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_popup_arrow_up.xml" qualifiers="" type="drawable"/><file name="alivc_popup_bg" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_popup_bg.xml" qualifiers="" type="drawable"/><file name="alivc_svideo_bg_next" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_svideo_bg_next.xml" qualifiers="" type="drawable"/><file name="alivc_svideo_bg_next_en" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_svideo_bg_next_en.xml" qualifiers="" type="drawable"/><file name="alivc_svide_bg_next_un" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\alivc_svide_bg_next_un.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_icon_complete" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_icon_complete.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_icon_delete" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_icon_delete.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_progressbar_drawable" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_progressbar_drawable.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_record_state_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_record_state_selector.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_switch_beauty" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_switch_beauty.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_switch_camera" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_switch_camera.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_switch_light_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_switch_light_selector.xml" qualifiers="" type="drawable"/><file name="aliyun_svideo_snap_transform_selector" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\aliyun_svideo_snap_transform_selector.xml" qualifiers="" type="drawable"/><file name="back_seekbar_bg" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\back_seekbar_bg.xml" qualifiers="" type="drawable"/><file name="isb_indicator_rounded_corners" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\isb_indicator_rounded_corners.xml" qualifiers="" type="drawable"/><file name="isb_indicator_square_corners" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable\isb_indicator_square_corners.xml" qualifiers="" type="drawable"/><file name="alivc_beauty_level_tab_checked" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\alivc_beauty_level_tab_checked.png" qualifiers="xhdpi-v4" type="drawable"/><file name="alivc_popup_arrow_down" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\alivc_popup_arrow_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_big_eye" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_big_eye.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_buffing" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_buffing.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_checkpink" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_checkpink.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_reset" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_reset.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_ruddy" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_ruddy.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_short_jaw" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_short_jaw.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_thin_face" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_thin_face.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_whitening" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\drawable-xhdpi\icon_whitening.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_copyright_web" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\activity_copyright_web.xml" qualifiers="" type="layout"/><file name="activity_sdk_version" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\activity_sdk_version.xml" qualifiers="" type="layout"/><file name="alivc_beauty_default" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_beauty_default.xml" qualifiers="" type="layout"/><file name="alivc_beauty_detail" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_beauty_detail.xml" qualifiers="" type="layout"/><file name="alivc_beauty_face_layout" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_beauty_face_layout.xml" qualifiers="" type="layout"/><file name="alivc_beauty_seekbar" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_beauty_seekbar.xml" qualifiers="" type="layout"/><file name="alivc_beauty_skin_layout" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_beauty_skin_layout.xml" qualifiers="" type="layout"/><file name="alivc_popup_layout" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\alivc_popup_layout.xml" qualifiers="" type="layout"/><file name="aliyun_isb_indicator" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\aliyun_isb_indicator.xml" qualifiers="" type="layout"/><file name="aliyun_svideo_layout_tab_top" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\aliyun_svideo_layout_tab_top.xml" qualifiers="" type="layout"/><file name="aliyun_svideo_progress_dialog" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\aliyun_svideo_progress_dialog.xml" qualifiers="" type="layout"/><file name="aliyun_video_alert_dialog_progress" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\layout\aliyun_video_alert_dialog_progress.xml" qualifiers="" type="layout"/><file name="alivc_beauty_icon_detail" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\alivc_beauty_icon_detail.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="alivc_svideo_icon_version" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\alivc_svideo_icon_version.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_alter" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_alter.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_alter_dis" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_alter_dis.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_alter_select" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_alter_select.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_back" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_back.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_beauty" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_beauty.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_beauty_dis" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_beauty_dis.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_beauty_select" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_beauty_select.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_complete" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_complete.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_complete_dis" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_complete_dis.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_complete_select" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_complete_select.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_confirm" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_confirm.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_default" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_default.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_delete" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_delete.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_delete_dis" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_delete_dis.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_delete_select" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_delete_select.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_frame" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_frame.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_lb" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_lb.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_light" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_light.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_light_auto" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_light_auto.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_light_dis" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_light_dis.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_light_off" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_light_off.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_light_on" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_light_on.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_ps" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_ps.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_record_normal" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_record_normal.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_record_pause" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_record_pause.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_record_press" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_record_press.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_sweep_left" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_sweep_left.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_icon_sweep_right" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_icon_sweep_right.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_none" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xhdpi\aliyun_svideo_none.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="aliyun_svideo_filter" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xxhdpi\aliyun_svideo_filter.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="aliyun_svideo_music" path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\mipmap-xxhdpi\aliyun_svideo_music.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="QuViewFanProgressBar">
+        <attr format="float|reference" name="circleMaxProgress"/>
+        <attr format="float|reference" name="circleProgress"/>
+        <attr format="dimension|reference" name="internalRadius"/>
+        <attr format="dimension|reference|enum" name="outRadius">
+            <enum name="match_parent" value="-1"/>
+        </attr>
+        <attr format="color|reference" name="internalBackgroundColor"/>
+        <attr format="color|reference" name="outBackgroundColor"/>
+        <attr format="float|reference" name="startAngle"/>
+        <attr format="float|reference" name="internalAlpha"/>
+        <attr format="float|reference" name="outAlpha"/>
+        <attr format="float|reference" name="centerX"/>
+        <attr format="float|reference" name="centerY"/>
+        <attr format="enum" name="outDirection">
+            <enum name="clockwise" value="1"/>
+            <enum name="counterclockwise" value="-1"/>
+        </attr>
+        <attr format="enum" name="internalDirection">
+            <enum name="clockwise" value="1"/>
+            <enum name="counterclockwise" value="-1"/>
+        </attr>
+        <attr format="enum" name="initStyle">
+            <enum name="fill" value="1"/>
+            <enum name="empty" value="0"/>
+        </attr>
+    </declare-styleable><declare-styleable name="QuViewCircularImageView">
+        <attr name="android:src"/>
+    </declare-styleable><declare-styleable name="QuViewRoundAngleImageView">
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="dimension" name="roundHeight"/>
+    </declare-styleable><declare-styleable name="QuViewCircleProgressBar">
+        <attr format="dimension" name="backgroundWidth"/>
+        <attr format="dimension" name="backgroundHeight"/>
+        <attr format="dimension" name="progressWidth"/>
+        <attr format="dimension" name="progressThickness"/>
+        <attr format="color|reference" name="backgroundColor"/>
+        <attr format="color|reference" name="progressColor"/>
+        <attr format="color|reference" name="progressThicknessColor"/>
+    </declare-styleable><declare-styleable name="QuViewAlertDialog">
+        <attr format="reference" name="progressLayout"/>
+        <attr format="reference" name="horizontalProgressLayout"/>
+    </declare-styleable><declare-styleable name="QuViewPagerSlidingTabStrip">
+        <attr format="color" name="pstsIndicatorColor"/>
+        <attr format="color" name="pstsUnderlineColor"/>
+        <attr format="color" name="pstsDividerColor"/>
+        <attr format="dimension" name="pstsIndicatorHeight"/>
+        <attr format="dimension" name="pstsUnderlineHeight"/>
+        <attr format="dimension" name="pstsDividerPadding"/>
+        <attr format="dimension" name="pstsIndicatorPadding"/>
+        <attr format="dimension" name="pstsTabPaddingLeftRight"/>
+        <attr format="dimension" name="pstsScrollOffset"/>
+        <attr format="reference" name="pstsTabBackground"/>
+        <attr format="boolean" name="pstsShouldExpand"/>
+        <attr format="boolean" name="pstsTextAllCaps"/>
+    </declare-styleable><declare-styleable name="PageIndicatorView">
+        <attr format="reference" name="pi_SelectedBackground"/>
+        <attr format="reference" name="pi_NormalBackground"/>
+        <attr format="dimension|reference" name="pi_Margin"/>
+        <attr format="dimension|reference" name="pi_DotSize"/>
+    </declare-styleable><declare-styleable name="QuSnap">
+        <attr format="reference" name="qusnap_background_color"/>
+        <attr format="reference" name="qusnap_tint_color"/>
+        <attr format="reference" name="qusnap_timeline_backgound_color"/>
+        <attr format="reference" name="qusnap_timeline_del_backgound_color"/>
+        <attr format="reference" name="qusnap_back_icon"/>
+        <attr format="reference" name="qusnap_back_icon_disable"/>
+        <attr format="reference" name="qusnap_beauty_icon"/>
+        <attr format="integer" name="qusnap_beauty_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_switch_camera_icon"/>
+        <attr format="integer" name="qusnap_switch_camera_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_switch_light_icon"/>
+        <attr format="reference" name="qusnap_switch_light_icon_disable"/>
+        <attr format="integer" name="qusnap_switch_light_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_gallery_icon"/>
+        <attr format="reference" name="qusnap_gallery_icon_disable"/>
+        <attr format="integer" name="qusnap_gallery_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_record_icon"/>
+        <attr format="integer" name="qusnap_record_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_delete_icon"/>
+        <attr format="integer" name="qusnap_delete_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_complete_icon"/>
+        <attr format="integer" name="qusnap_complete_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_time_txt_color"/>
+        <attr format="dimension" name="qusnap_time_txt_size"/>
+        <attr format="integer" name="qusnap_time_txt_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="dimension" name="qusnap_time_line_pos_y"/>
+        <attr format="reference" name="qusnap_crop_sweep_left"/>
+        <attr format="reference" name="qusnap_crop_sweep_right"/>
+        <attr format="reference" name="qusnap_crop_seek_frame"/>
+        <attr format="reference" name="qusnap_crop_seek_padding_color"/>
+        <attr format="reference" name="qusnap_crop_icon_transform"/>
+        <attr format="integer" name="qusnap_crop_icon_transform_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+        <attr format="reference" name="qusnap_crop_time_txt_color"/>
+        <attr format="dimension" name="qusnap_crop_time_txt_size"/>
+        <attr format="integer" name="qusnap_crop_txt_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="IndicatorSeekBar">
+        //seekBar
+        <attr format="float" name="isb_max"/>
+        <attr format="float" name="isb_min"/>
+        <attr format="float" name="isb_progress"/>
+        <attr format="boolean" name="isb_clear_default_padding"/>
+        <attr format="boolean" name="isb_forbid_user_seek"/>
+        <attr format="boolean" name="isb_touch_to_seek"/>
+        <attr format="boolean" name="isb_progress_value_float"/>
+        <attr name="isb_seek_bar_type">
+            <enum name="continuous" value="0"/>
+            <enum name="continuous_texts_ends" value="1"/>
+            <enum name="discrete_ticks" value="2"/>
+            <enum name="discrete_ticks_texts" value="3"/>
+            <enum name="discrete_ticks_texts_ends" value="4"/>
+        </attr>
+        //indicator
+        <attr name="isb_indicator_type">
+            <enum name="rectangle_rounded_corner" value="0"/>
+            <enum name="rectangle" value="1"/>
+            <enum name="circular_bubble" value="2"/>
+            <enum name="custom" value="3"/>
+        </attr>
+        <attr format="boolean" name="isb_show_indicator"/>
+        <attr format="color|reference" name="isb_indicator_color"/>
+        <attr format="reference" name="isb_indicator_custom_layout"/>
+        <attr format="reference" name="isb_indicator_custom_top_content_layout"/> 
+        <attr format="color|reference" name="isb_indicator_text_color"/>
+        <attr format="dimension|reference" name="isb_indicator_text_size"/>
+        <attr format="boolean" name="isb_indicator_stay"/>
+        //track
+        <attr format="dimension|reference" name="isb_track_background_bar_size"/>
+        <attr format="color|reference" name="isb_track_background_bar_color"/>
+        <attr format="dimension|reference" name="isb_track_progress_bar_size"/>
+        <attr format="color|reference" name="isb_track_progress_bar_color"/>
+        <attr format="boolean" name="isb_track_rounded_corners"/>
+        //thumb
+        <attr format="boolean" name="isb_thumb_progress_stay"/>
+        <attr format="color|reference" name="isb_thumb_color"/>
+        <attr format="dimension|reference" name="isb_thumb_width"/>
+        <attr format="reference" name="isb_thumb_drawable"/>
+        //tick
+        <attr format="reference" name="isb_tick_drawable"/>
+        <attr format="color|reference" name="isb_tick_color"/>
+        <attr format="integer" name="isb_tick_num"/>
+        <attr format="dimension|reference" name="isb_tick_size"/>
+        <attr format="boolean" name="isb_tick_both_end_hide"/>
+        <attr format="boolean" name="isb_tick_on_thumb_left_hide"/>
+        <attr name="isb_tick_type">
+            <enum name="none" value="0"/>
+            <enum name="rec" value="1"/>
+            <enum name="oval" value="2"/>
+        </attr>
+        //text
+        <attr format="color|reference" name="isb_text_color"/>
+        <attr format="string|reference" name="isb_text_left_end"/>
+        <attr format="string|reference" name="isb_text_right_end"/>
+        <attr format="dimension|reference" name="isb_text_size"/>
+        <attr format="reference" name="isb_text_array"/>
+        <attr name="isb_text_typeface">
+            <enum name="normal" value="0"/>
+            <enum name="monospace" value="1"/>
+            <enum name="sans" value="2"/>
+            <enum name="serif" value="3"/>
+        </attr>
+    </declare-styleable></file><file path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\values\color.xml" qualifiers=""><color name="colorPrimary">#1e222d</color><color name="qupai_text_dialog_vcode">#b3000000</color><color name="qupai_text_dialog_nickname">#4d000000</color><color name="qupai_color_list_default">@color/aliyun_defalut_record_primary_color</color><color name="qupai_color_text_edit_single">#a6a6a6</color><color name="qupai_bg_color_list">#ffffff</color><color name="qupai_text_dialog_bg">#f7f7f7</color><color name="qupai_text_dialog_green_default">@color/aliyun_defalut_record_primary_color</color><color name="qupai_text_dialog_green_press">#ff1500</color><color name="qupai_recording_tip_bg_long">@android:color/transparent</color><color name="qupai_recording_tip_bg_short">#4c000000</color><color name="qupai_recording_tip_text_color_short">@android:color/white</color><color name="qupai_recording_tip_text_color_long">@android:color/black</color><color name="qupai_recorder_timeline_background">#e9e9e9</color><color name="qupai_editor_asset_item_background">#484848</color><color name="qupai_editor_diy_item_background_default">#FB006A</color><color name="qupai_editor_diy_item_background_press">#E40060</color><color name="qupai_import_toast_bg">#99000000</color><color name="qupai_timer_count_down_bg">#66FF0000</color><color name="qupai_album_divider_line">#434343</color><color name="qupai_dilog_divider_line">#d9d9d9</color><color name="qupai_balloon_tip_bg_cyan">#e626b8e9</color><color name="qupai_balloon_tip_bg_yellow">#ffc600</color><color name="qupai_effect_chooser_item_text_short">#ffffff</color><color name="qupai_gray_0x19">#191919</color><color name="qupai_gray_0x33">#333333</color><color name="qupai_gray_0x48">#484848</color><color name="qupai_gray_0x4d">#4d4d4d</color><color name="qupai_gray_0x80">#808080</color><color name="qupai_gray_0x8c">#8c8c8c</color><color name="qupai_gray_0x99">#999999</color><color name="qupai_gray_0xf2">#f2f2f2</color><color name="qupai_gray_0xf0">#f0f0f0</color><color name="qupai_gray_0x92">#929292</color><color name="qupai_gray_0xe5">#E5E5E5</color><color name="qupai_gray_0xd4">#D4D4D4</color><color name="qupai_gray_0xe2">#E2E2E2</color><color name="qupai_gray_0x44">#444444</color><color name="qupai_gray_0x88">#888888</color><color name="qupai_line_gray_effect">#535259</color><color name="qupai_line_gray_cc">#cccccc</color><color name="qupai_black_opacity_10pct">#1a000000</color><color name="qupai_black_opacity_20pct">#33000000</color><color name="aliyun_black_opacity_30pct">#4d000000</color><color name="qupai_black_opacity_40pct">#66000000</color><color name="qupai_black_opacity_60pct">#99000000</color><color name="qupai_black_opacity_50pct">#80000000</color><color name="qupai_black_opacity_70pct">#b3000000</color><color name="qupai_black_opacity_90pct">#E6000000</color><color name="qupai_background_trim">#7f333333</color><color name="qupai_edit_background_mask">#66999999</color><color name="qupai_line_gray_75">#757575</color><color name="qupai_trim_green_default">@color/aliyun_defalut_record_primary_color</color><color name="qupai_translucent_0x7f">#7f7f7f7f</color><color name="qupai_bg_theme_black">#FF303030</color><color name="compose_tip">#bcbcbc</color><color name="qupai_theme_default_background_color_transparent_20">@color/aliyun_defalut_primary_color_alpha30</color><color name="qupai_theme_default_background_color">@color/aliyun_defalut_record_primary_color</color><color name="qupai_theme_default_background_press_color">#ff1500</color><color name="qupai_theme_red_pressed_color">#d52e1f</color><color name="qupai_theme_gray_pressed_color">#6d6d6d</color><color name="qupai_theme_default_text_color">@color/aliyun_defalut_record_primary_color</color><color name="qupai_theme_default_text_press_color">#ff1500</color><color name="qupai_theme_default_message_backgroud_color">#4dff5454</color><color name="qupai_theme_default_main_background_color">#FFFFFF</color><color name="qupai_theme_default_main_background_color_gallery">#35333D</color><color name="qupai_theme_default_main_background_color_gallery_header">#9B9EA9</color><color name="qupai_theme_default_sub_background_color">#ff4b4b4b</color><color name="qupai_default_effect_background_color">#66FFFFFF</color><color name="qupai_theme_default_sub_background_color_opacity_50pct">#804b4b4b</color><color name="qupai_gallery_option_bg">#262529</color><color name="qupai_theme_clip_select">#9A4449</color><color name="qupai_timeline_bg">#2C2A33</color><color name="qupai_effect_overlay_progress_bg">#33333333</color><color name="qupai_effect_overlay_progress_bg_active">#66333333</color><color name="qupai_effect_chooser_list_item_null_img">#ffde00</color><color name="qupai_effect_chooser_list_item_null_color">#ff5454</color><color name="qupai_select_status_color_red">#FB4A3A</color><color name="qupai_select_status_color">#80ff5454</color><color name="qupai_import_album_default_color">#ff5454</color><color name="qupai_import_album_press_color">#ff1500</color><color name="aliyun_defalut_record_primary_color">#ff5454</color><color name="aliyun_defalut_primary_color_alpha30">#4dff5454</color><color name="aliyun_defalut_primary_color_alpha40">#66ff5454</color><color name="aliyun_defalut_primary_color_alpha50">#80ff5454</color><color name="aliyun_defalut_record_primary_color_pressed">#ff1500</color><color name="aliyun_editor_tab_effect_bg">#46434e</color><color name="aliyun_editor_tab_effect_bg_60">#9946434e</color><color name="aliyun_trim_seekbar_primary_color">#ffa59d</color><color name="aliyun_defalut_mask_bar_color">#ff5454</color><color name="aliyun_qupai_transparent">#00ffffff</color><color name="aliyun_powered_text_color">#adadad</color><color name="aliyun_quit_confirm_normal">#FF0000</color><color name="aliyun_quit_confirm_pressed">#E60000</color><color name="aliyun_quit_remake_confirm_normal">#FFFFFF</color><color name="aliyun_quit_remake_confirm_pressed">#E9E9E9</color><color name="aliyun_drafts_action_line">#0D000000</color><color name="aliyun_editor_overlay_line">#D8D8D8</color><color name="aliyun_editor_overlay_line_trim">#4b4b4b</color><color name="aliyun_record_slipt_color">#5f5f5f</color><color name="aliyun_editor_person_info_divider">#f5f5f5</color><color name="aliyun_tutorial_text_color">#784700</color><color name="aliyun_balloon_bg_color">#e5FCD68C </color><color name="aliyun_eeditor_header_text">#1F2123</color><color name="alivc_base_white">#FFFFFF</color><color name="aliyun_white_opacity_70pct">#b3FFFFFF</color><color name="aliyun_white_opacity_50pct">#80FFFFFF</color><color name="aliyun_white_opacity_40pct">#66FFFFFF</color><color name="aliyun_white_opacity_30pct">#4DFFFFFF</color><color name="aliyun_white_opacity_60pct">#99FFFFFF</color><color name="qupai_record_delete">#5D5B63</color><color name="aliyun_base_color_bg">#232A42</color><color name="aliyun_tab_indicator_color">#EF4B81</color><color name="aliyun_transparent">#00ffffff</color><color name="aliyun_halftransparent">#66000000</color><color name="aliyun_red">#ff5151</color><color name="aliyun_black">#000000</color><color name="aliyun_download_progress">#80ff5454</color><color name="aliyun_tint_color">#EF4B81</color><color name="aliyun_timeline_background_del_color">#ffcc0000</color><color name="aliyun_timeline_backgound_color">#D8D8D8</color><color name="alivc_beauty_level_height">#FFFFFF</color><color name="alivc_beauty_level_normal">#C3C5C6</color><color name="alivc_chooser_bg">#B3000000</color><color name="color_bg">#232A42</color><color name="alivc_bg_next">#FC4448 </color></file><file path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\values\strings.xml" qualifiers=""><string name="alivc_base_version">SDK VERSION INFO</string><string name="alivc_beauty">Face Filter</string><string name="alivc_fine_tune">Makeup</string><string name="beauty_whitening">Skin Whitening</string><string name="beauty_buffing">Skin Polishing</string><string name="beauty_blush">Skin Shining</string><string name="beauty_lip_gloss">Blusher</string><string name="beauty_short_jaw">Shorten Jaw</string><string name="beauty_bigeye">BigEye</string><string name="beauty_thinface">SlimFace</string><string name="alivc_beauty_level_advanced">Advanced</string><string name="alivc_beauty_level_normal">Normal</string><string name="alivc_tips_fine_tuning">点击可微调</string><string name="alivc_beauty_copyright">高级美颜美肌由faceunity提供</string><string name="alivc_beauty_copyright_link">如何获取</string><string name="alivc_activity_title_copyright">第三方能力获取说明</string><string name="alivc_svideo_next">下一步</string></file><file path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\values\styles.xml" qualifiers=""><style name="AliyunVideoUIStytle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="qusnap_background_color">@color/aliyun_base_color_bg</item>
+        <item name="qusnap_tint_color">@color/aliyun_tint_color</item>
+        <item name="qusnap_timeline_backgound_color">@color/aliyun_timeline_backgound_color</item>
+        <item name="qusnap_timeline_del_backgound_color">@color/aliyun_timeline_background_del_color</item>
+        <item name="qusnap_back_icon">@mipmap/aliyun_svideo_icon_back</item>
+        <item name="qusnap_switch_light_icon">@drawable/aliyun_svideo_snap_switch_light_selector</item>
+        <item name="qusnap_switch_light_icon_disable">@mipmap/aliyun_svideo_icon_light_dis</item>
+        <item name="qusnap_switch_light_icon_visibility">visible</item>
+        <item name="qusnap_switch_camera_icon">@drawable/aliyun_svideo_snap_switch_camera</item>
+        <item name="qusnap_switch_camera_icon_visibility">visible</item>
+        <item name="qusnap_beauty_icon">@drawable/aliyun_svideo_snap_switch_beauty</item>
+        <item name="qusnap_beauty_icon_visibility">visible</item>
+        <item name="qusnap_record_icon">@drawable/aliyun_svideo_snap_record_state_selector</item>
+        <item name="qusnap_delete_icon">@drawable/aliyun_svideo_snap_icon_delete</item>
+        <item name="qusnap_complete_icon">@drawable/aliyun_svideo_snap_icon_complete</item>
+        <item name="qusnap_gallery_icon">@mipmap/aliyun_svideo_icon_default</item>
+        <item name="qusnap_gallery_icon_visibility">visible</item>
+        <item name="qusnap_time_txt_color">@android:color/white</item>
+        <item name="qusnap_time_txt_size">15dp</item>
+        <item name="qusnap_time_txt_visibility">visible</item>
+        <item name="qusnap_time_line_pos_y">0dp</item>
+        <item name="qusnap_crop_sweep_left">@mipmap/aliyun_svideo_icon_sweep_left</item>
+        <item name="qusnap_crop_sweep_right">@mipmap/aliyun_svideo_icon_sweep_right</item>
+        <item name="qusnap_crop_seek_frame">@mipmap/aliyun_svideo_icon_frame</item>
+        <item name="qusnap_crop_seek_padding_color">@android:color/holo_red_dark</item>
+        <item name="qusnap_crop_icon_transform">@drawable/aliyun_svideo_snap_transform_selector</item>
+        <item name="qusnap_crop_icon_transform_visibility">visible</item>
+        <item name="qusnap_crop_time_txt_color">@android:color/white</item>
+        <item name="qusnap_crop_time_txt_size">15dp</item>
+        <item name="qusnap_crop_txt_visibility">visible</item>
+    </style><style name="BeautyChangeTabStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawableBottom">@drawable/alivc_beauty_level_tab_checked</item>
+        <item name="android:drawablePadding">6dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/alivc_beauty_level_text_selector</item>
+    </style><style name="BeautyDetailBtnStyle">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:background">@drawable/alivc_beauty_default_bt_selector</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">10.5dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="BeautyDetailTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:padding">10.5dp</item>
+        <item name="android:textColor">#c3c5c6</item>
+        <item name="android:textSize">12dp</item>
+
+    </style><style name="BeautyLevelBtnStyle">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:background">@drawable/alivc_beauty_default_bt_selector</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="NextBtnStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:background">@drawable/alivc_svideo_bg_next</item>
+        <item name="android:layout_height">27dp</item>
+        <item name="android:layout_width">57dp</item>
+        <item name="android:text">@string/alivc_svideo_next</item>
+    </style></file><file path="E:\alipay\VideoDemo\AliyunSVideoBase\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="alivc_base_version">SDK版本信息</string><string name="alivc_beauty">美颜</string><string name="alivc_fine_tune">微调</string><string name="beauty_buffing">磨皮</string><string name="beauty_whitening">美白</string><string name="beauty_blush">红润</string><string name="beauty_bigeye">大眼</string><string name="beauty_thinface">瘦脸</string><string name="alivc_beauty_level_advanced">高级</string><string name="alivc_beauty_level_normal">普通</string><string name="alivc_beauty_copyright">高级美颜美肌由faceunity提供</string><string name="alivc_beauty_copyright_link">如何获取</string><string name="alivc_activity_title_copyright">第三方能力获取说明</string><string name="alivc_svideo_next">下一步</string></file></source><source path="E:\alipay\VideoDemo\AliyunSVideoBase\build\generated\res\rs\debug"/><source path="E:\alipay\VideoDemo\AliyunSVideoBase\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\alipay\VideoDemo\AliyunSVideoBase\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\alipay\VideoDemo\AliyunSVideoBase\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="QuViewCircularImageView"><attr name="android:src"/></declare-styleable><declare-styleable name="QuViewRoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable><declare-styleable name="IndicatorSeekBar"><attr format="float" name="isb_max"/><attr format="float" name="isb_min"/><attr format="float" name="isb_progress"/><attr format="boolean" name="isb_clear_default_padding"/><attr format="boolean" name="isb_forbid_user_seek"/><attr format="boolean" name="isb_touch_to_seek"/><attr format="boolean" name="isb_progress_value_float"/><attr name="isb_seek_bar_type">
+            <enum name="continuous" value="0"/>
+            <enum name="continuous_texts_ends" value="1"/>
+            <enum name="discrete_ticks" value="2"/>
+            <enum name="discrete_ticks_texts" value="3"/>
+            <enum name="discrete_ticks_texts_ends" value="4"/>
+        </attr><attr name="isb_indicator_type">
+            <enum name="rectangle_rounded_corner" value="0"/>
+            <enum name="rectangle" value="1"/>
+            <enum name="circular_bubble" value="2"/>
+            <enum name="custom" value="3"/>
+        </attr><attr format="boolean" name="isb_show_indicator"/><attr format="color|reference" name="isb_indicator_color"/><attr format="reference" name="isb_indicator_custom_layout"/><attr format="reference" name="isb_indicator_custom_top_content_layout"/><attr format="color|reference" name="isb_indicator_text_color"/><attr format="dimension|reference" name="isb_indicator_text_size"/><attr format="boolean" name="isb_indicator_stay"/><attr format="dimension|reference" name="isb_track_background_bar_size"/><attr format="color|reference" name="isb_track_background_bar_color"/><attr format="dimension|reference" name="isb_track_progress_bar_size"/><attr format="color|reference" name="isb_track_progress_bar_color"/><attr format="boolean" name="isb_track_rounded_corners"/><attr format="boolean" name="isb_thumb_progress_stay"/><attr format="color|reference" name="isb_thumb_color"/><attr format="dimension|reference" name="isb_thumb_width"/><attr format="reference" name="isb_thumb_drawable"/><attr format="reference" name="isb_tick_drawable"/><attr format="color|reference" name="isb_tick_color"/><attr format="integer" name="isb_tick_num"/><attr format="dimension|reference" name="isb_tick_size"/><attr format="boolean" name="isb_tick_both_end_hide"/><attr format="boolean" name="isb_tick_on_thumb_left_hide"/><attr name="isb_tick_type">
+            <enum name="none" value="0"/>
+            <enum name="rec" value="1"/>
+            <enum name="oval" value="2"/>
+        </attr><attr format="color|reference" name="isb_text_color"/><attr format="string|reference" name="isb_text_left_end"/><attr format="string|reference" name="isb_text_right_end"/><attr format="dimension|reference" name="isb_text_size"/><attr format="reference" name="isb_text_array"/><attr name="isb_text_typeface">
+            <enum name="normal" value="0"/>
+            <enum name="monospace" value="1"/>
+            <enum name="sans" value="2"/>
+            <enum name="serif" value="3"/>
+        </attr></declare-styleable><declare-styleable name="QuViewAlertDialog"><attr format="reference" name="progressLayout"/><attr format="reference" name="horizontalProgressLayout"/></declare-styleable><declare-styleable name="QuViewCircleProgressBar"><attr format="dimension" name="backgroundWidth"/><attr format="dimension" name="backgroundHeight"/><attr format="dimension" name="progressWidth"/><attr format="dimension" name="progressThickness"/><attr format="color|reference" name="backgroundColor"/><attr format="color|reference" name="progressColor"/><attr format="color|reference" name="progressThicknessColor"/></declare-styleable><declare-styleable name="PageIndicatorView"><attr format="reference" name="pi_SelectedBackground"/><attr format="reference" name="pi_NormalBackground"/><attr format="dimension|reference" name="pi_Margin"/><attr format="dimension|reference" name="pi_DotSize"/></declare-styleable><declare-styleable name="QuViewPagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsIndicatorPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable><declare-styleable name="QuViewFanProgressBar"><attr format="float|reference" name="circleMaxProgress"/><attr format="float|reference" name="circleProgress"/><attr format="dimension|reference" name="internalRadius"/><attr format="dimension|reference|enum" name="outRadius">
+            <enum name="match_parent" value="-1"/>
+        </attr><attr format="color|reference" name="internalBackgroundColor"/><attr format="color|reference" name="outBackgroundColor"/><attr format="float|reference" name="startAngle"/><attr format="float|reference" name="internalAlpha"/><attr format="float|reference" name="outAlpha"/><attr format="float|reference" name="centerX"/><attr format="float|reference" name="centerY"/><attr format="enum" name="outDirection">
+            <enum name="clockwise" value="1"/>
+            <enum name="counterclockwise" value="-1"/>
+        </attr><attr format="enum" name="internalDirection">
+            <enum name="clockwise" value="1"/>
+            <enum name="counterclockwise" value="-1"/>
+        </attr><attr format="enum" name="initStyle">
+            <enum name="fill" value="1"/>
+            <enum name="empty" value="0"/>
+        </attr></declare-styleable><declare-styleable name="QuSnap"><attr format="reference" name="qusnap_background_color"/><attr format="reference" name="qusnap_tint_color"/><attr format="reference" name="qusnap_timeline_backgound_color"/><attr format="reference" name="qusnap_timeline_del_backgound_color"/><attr format="reference" name="qusnap_back_icon"/><attr format="reference" name="qusnap_back_icon_disable"/><attr format="reference" name="qusnap_beauty_icon"/><attr format="integer" name="qusnap_beauty_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_switch_camera_icon"/><attr format="integer" name="qusnap_switch_camera_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_switch_light_icon"/><attr format="reference" name="qusnap_switch_light_icon_disable"/><attr format="integer" name="qusnap_switch_light_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_gallery_icon"/><attr format="reference" name="qusnap_gallery_icon_disable"/><attr format="integer" name="qusnap_gallery_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_record_icon"/><attr format="integer" name="qusnap_record_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_delete_icon"/><attr format="integer" name="qusnap_delete_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_complete_icon"/><attr format="integer" name="qusnap_complete_icon_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_time_txt_color"/><attr format="dimension" name="qusnap_time_txt_size"/><attr format="integer" name="qusnap_time_txt_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="dimension" name="qusnap_time_line_pos_y"/><attr format="reference" name="qusnap_crop_sweep_left"/><attr format="reference" name="qusnap_crop_sweep_right"/><attr format="reference" name="qusnap_crop_seek_frame"/><attr format="reference" name="qusnap_crop_seek_padding_color"/><attr format="reference" name="qusnap_crop_icon_transform"/><attr format="integer" name="qusnap_crop_icon_transform_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr><attr format="reference" name="qusnap_crop_time_txt_color"/><attr format="dimension" name="qusnap_crop_time_txt_size"/><attr format="integer" name="qusnap_crop_txt_visibility">
+            <enum name="visible" value="0"/>
+            <enum name="invisible" value="1"/>
+            <enum name="gone" value="2"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>
